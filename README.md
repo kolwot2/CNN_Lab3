@@ -54,7 +54,5 @@ EfficientNet-B0 (предварительно обученную на базе �
    <img src="./graphs/cos_decay_r_loss_legend.png">
    
    * Графики темпов обучения epoch_learning_rate:
-   <img src="./graphs/cos_decay_lr0.01.svg" width="400" height="400">
-   <img src="./graphs/cos_decay_lr0.001.svg" width="400" height="400">
-   <img src="./graphs/cos_decay_lr0.0001.svg" width="400" height="400">
-   <img src="./graphs/cos_decay_lr_legend.png">
+   <img src="./graphs/cos_decay_r_lr.svg">
+   <img src="./graphs/cos_decay_r_lr_legend.png">
